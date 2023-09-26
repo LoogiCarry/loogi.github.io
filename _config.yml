@@ -1,5 +1,6 @@
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 title: Loogi Carry
 description: Welcome to the realm of pixel arts
+logo: ![obraz](https://github.com/LoogiCarry/loogi.github.io/assets/84445776/55ee7a17-ab5e-4faa-a524-37e0a82f2530)
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
